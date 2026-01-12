@@ -71,3 +71,15 @@
 {"level":"info","message":"User created successfully: dan@gmail1.com","service":"acquisitions-api"}
 {"level":"info","message":"User registered successfully: dan@gmail1.com","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [12/Jan/2026:02:23:18 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 112 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [12/Jan/2026:04:00:37 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: dan@gmail1.com","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: dan@gmail1.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [12/Jan/2026:04:12:13 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 184 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [12/Jan/2026:04:22:22 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 400 143 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: dan@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: dan@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [12/Jan/2026:04:25:41 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 182 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: dan@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: dan@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [12/Jan/2026:04:27:15 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 182 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [12/Jan/2026:04:27:59 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 400 143 \"-\" \"HTTPie\"","service":"acquisitions-api"}
